@@ -41,6 +41,7 @@ class CacheEventsCommand extends Command {
     private $english = 'en-US';
     private $french = 'fr-FR';
     private $projectDir;
+    private $test;
 
     public function __construct(KernelInterface $kernel, EntityManagerInterface $em, ParameterBagInterface $params) {
         parent::__construct();
