@@ -1,5 +1,9 @@
 <?php
 
+abcd
+1234
+4321
+
 /////////////////////////////////////////////////////////////////////////////
 //RUN ME WITH ONE OF THE FOLLOWING COMMANDS:
 //  php bin/console app:cache-events
