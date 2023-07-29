@@ -1,5 +1,11 @@
 <?php
 
+vndkjnfvkndv
+dkjvndkfn
+lkdvfdkfmdlv
+djvnfkjdnkj
+sdcdsc
+
 /////////////////////////////////////////////////////////////////////////////
 //RUN ME WITH ONE OF THE FOLLOWING COMMANDS:
 //  php bin/console app:cache-events
